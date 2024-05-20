@@ -1,0 +1,112 @@
+/* 
+nav{
+    background: #A1C398 ;
+    
+}
+
+.cabecera{
+    color: rgb(237, 245, 245);
+    font-size: 50px;
+}
+
+.icono{
+    margin: 10px 1100px 10px 10px;
+    padding: 20;
+    font-size: 200 px;
+    background: red;
+}
+
+principal-container{
+    display: flex;
+}
+
+button{
+    background: #2C7865;
+    color: #11e4af;
+}
+
+button:hover{
+    background: #72867c;
+    color: #FF9800;
+}
+
+.container{
+    display: inline-block;
+}
+
+.icono {
+    font-size: 50px;
+}
+*/
+
+#cabecera {
+  padding: 10px;
+  background: #28634f;
+  margin-left: 0;
+  font-size: 0px;
+}
+
+
+#cabecera h1 {
+  width: 6cm;
+  margin-left: 50px;
+  color: #fff;
+}
+
+.logo1 {
+  padding: 10px;
+  background:  #17382d;
+  margin: 0px 0px 00px 0px;
+  font-size: 0px;
+}
+
+.logo1 img {
+  
+  margin-left: 30px;
+  width: 5cm; 
+  margin-right: 0px; /* Ajusta el margen derecho según tu necesidad */
+}
+
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .container h1 {
+    text-align: o;
+  }
+  
+  .container div {
+    margin-bottom: 10px;
+  }
+  
+  .container label {
+    display: inline-block;
+    width: 150px;
+  }
+  
+  .container input,
+  .container select {
+    width: calc(100% - 160px);
+    padding: 5px;
+  }
+  
+  .container button {
+    width: 30%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #resultado {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
